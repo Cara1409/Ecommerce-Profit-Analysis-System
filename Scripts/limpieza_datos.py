@@ -7,6 +7,7 @@ print(f"📊 Registros iniciales: {len(df)}")
 
 # 2. Limpieza de Duplicados
 df = df.drop_duplicates()
+df = df.drop_duplicates(subset=['ID_Venta'], keep='first')
 print(f"✅ Sin duplicados: {len(df)}")
 
 # 3. Limpieza de Categorías (Normalización)
