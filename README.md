@@ -9,6 +9,6 @@ Transformar datos de ventas en una herramienta de decisión financiera para calc
 - **Power BI**: Visualización de KPIs financieros.
 ## 📋 Estado del Proyecto
 - [x] Planificación y Arquitectura.
-- [ ] Generación de Dataset (En proceso).
-- [ ] Modelado en SQL Server.
+- [x] Generación de Dataset.
+- [ ] Modelado en SQL Server (En proceso).
 - [ ] Dashboard Final en Power BI.
