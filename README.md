@@ -10,5 +10,5 @@ Transformar datos de ventas en una herramienta de decisión financiera para calc
 ## 📋 Estado del Proyecto
 - [x] Planificación y Arquitectura.
 - [x] Generación de Dataset.
-- [ ] Modelado en SQL Server (En proceso).
-- [ ] Dashboard Final en Power BI.
+- [x] Modelado en SQL Server.
+- [ ] Dashboard Final en Power BI (En proceso).
